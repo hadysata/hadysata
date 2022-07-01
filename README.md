@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hady Saleh</h1>
+<h1 align="left">Hi 👋, I'm Hady Saleh</h1>
 
-<p align="left"> <a href="https://twitter.com/hadysata" target="blank"><img src="https://img.shields.io/twitter/follow/hadysata?logo=twitter&style=for-the-badge" alt="hadysata" /></a> </p>
+<p align="center"> <a href="https://twitter.com/hadysata" target="blank"><img src="https://img.shields.io/twitter/follow/hadysata?logo=twitter&style=for-the-badge" alt="hadysata" /></a> </p>
 
 - 🔭 I’m currently working on [Garage Platforms](https://www.tryGarage.com)
 
