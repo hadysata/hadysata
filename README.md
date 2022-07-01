@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/hadysata" target="blank"><img src="https://img.shields.io/twitter/follow/hadysata?logo=twitter&style=for-the-badge" alt="hadysata" /></a> </p>
 
-- 🔭 I’m currently working on [Garage Platforms](tryGarage.com)
+- 🔭 I’m currently working on [Garage Platforms](https://www.tryGarage.com)
 
 - 🤝 I’m looking for help with **TBA**
 
