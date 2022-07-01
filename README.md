@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Flutter, Firebase, GCP and NodeJS**
 
-- 📫 How to reach me **hady@tryGarage.com**
+- 📫 Reach me at **hady@tryGarage.com**
 
 - ⚡ Fun fact **I love sitcom TV shows**
 
