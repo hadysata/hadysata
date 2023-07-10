@@ -2,15 +2,11 @@
 
 <p align="center"> <a href="https://twitter.com/hadysata" target="blank"><img src="https://img.shields.io/twitter/follow/hadysata?logo=twitter&style=for-the-badge" alt="hadysata" /></a> </p>
 
-- 🔭 I’m currently working on [Garage Platforms](https://www.tryGarage.com)
-
-- 🤝 I’m looking for help with **TBA**
+- 🔭 I’m currently working on [Drahim](https://drahim.sa)
 
 - 💬 Ask me about **Flutter, Firebase, GCP and NodeJS**
 
-- 📫 Reach me at **hady@tryGarage.com**
-
-- ⚡ Fun fact **I love sitcom TV shows**
+- 📫 Reach me at **hadysata@gmail.com.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
